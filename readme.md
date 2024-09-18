@@ -64,9 +64,6 @@ SubDomain Finder is a GUI-based tool to discover subdomains using either a wordl
 2. Enter the API key and click **Set API Key**.
 3. Use **Get API Key** to retrieve the current key or **Clear API Key** to remove it.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - **VirusTotal API** for subdomain data.
 - **SecurityTrails API** for subdomain enumeration.

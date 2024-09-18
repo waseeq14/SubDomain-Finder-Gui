@@ -35,7 +35,7 @@ SubDomain Finder is a GUI-based tool to discover subdomains using either a wordl
 
 1. Run the application:
     ```bash
-    python main.py
+    python ui_SubDomain_Finder.py
     ```
 
 2. Enter the domain you want to enumerate (without `www.` or `https://`).
